@@ -8,9 +8,9 @@
 
 | Материал                                                                                      | Описание                                                                         |
 | --------------------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------|
-| [Техническое интервью](https://github.com/sysops8/devops-interview-main/blob/main/interview.md)     |  Здесь собраны ответы на вопросы самых разных собеседований за последние 2 года  |
-| [Интервью с hr](https://github.com/sysops8/devops-interview-main/blob/main/interview-hr-tips.md)    |  Советы о том, как подготовиться к интервью, на что обратить внимание            |
-| [Референсы, ссылки](https://github.com/sysops8/devops-interview-main/blob/main/references.md)       |  Ссылки на полезные метариалы                                                    |
+| [Техническое интервью](https://github.com/sysops8/devops_question_refresh/blob/main/devops-interview-main/interview.md)     |  Здесь собраны ответы на вопросы самых разных собеседований за последние 2 года  |
+| [Интервью с hr](https://github.com/sysops8/devops_question_refresh/blob/main/devops-interview-main/interview-hr-tips.md)    |  Советы о том, как подготовиться к интервью, на что обратить внимание            |
+| [Референсы, ссылки](https://github.com/sysops8/devops_question_refresh/blob/main/devops-interview-main/references.md)       |  Ссылки на полезные метариалы                                                    |
 | [Топ вопросов](https://docs.google.com/spreadsheets/d/1WPOMAkQFL1zkAC6Uvt5lk7lwpeNkVaaaX07OPyzu0fk/edit?usp=sharing) | Субъективный рейтинг популярных вопросов по баллам от 0 до 10 |
 
 
@@ -33,7 +33,7 @@
 2. Ставим расширение VSCode для генерации оглавления([Auto Markdown TOC](https://marketplace.visualstudio.com/items?itemName=huntertran.auto-markdown-toc)).
 3. Наводим курсор на текущее оглавление, или стираем его для повторной генерации.
 4. Выделяем нужный нам участок где хотим сгенерировать оглавление, жмем Ctrl+M T (Auto Markdown TOC: Insert/Update). (Также можно вызвать из меню правой кнопкой мыши)
-![use_toc](https://github.com/sysops8/devops-interview-main/blob/main/imgs/use_toc.gif)
+![use_toc](https://github.com/sysops8/devops_question_refresh/blob/main/devops-interview-main/imgs/use_toc.gif)
 
 **Благодарности**  
 
