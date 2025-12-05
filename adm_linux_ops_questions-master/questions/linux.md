@@ -533,7 +533,7 @@ used = total - free - buff/cache
 36. Порядок загрузки дистрибутива Linux.
 
 <details>
-  <summary>Ответ</summary>    
+  <summary>Ответ</summary>
     1. Включение компьютера.
     2. Старт BIOS/UEFI из NVRAM.
     3. Инициализация и проверка аппаратуры (POST).
