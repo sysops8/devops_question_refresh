@@ -534,6 +534,7 @@ used = total - free - buff/cache
 
 <details>
   <summary>Ответ</summary>  
+  
     1. Включение компьютера.
     2. Старт BIOS/UEFI из NVRAM.
     3. Инициализация и проверка аппаратуры.
