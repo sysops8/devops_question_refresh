@@ -535,7 +535,7 @@ used = total - free - buff/cache
 <details>
   <summary>Ответ</summary>
   
-Упрощенный порядок загрузки:
+
     1. Включение компьютера.
     2. BIOS/UEFI:
         ◦ Самопроверка (POST).
